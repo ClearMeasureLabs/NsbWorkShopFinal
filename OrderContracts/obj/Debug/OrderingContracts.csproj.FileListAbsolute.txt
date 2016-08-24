@@ -1,0 +1,7 @@
+C:\Users\Justin Self\documents\visual studio 2015\Projects\NsbWorkshop\OrderContracts\bin\Debug\OrderingContracts.dll
+C:\Users\Justin Self\documents\visual studio 2015\Projects\NsbWorkshop\OrderContracts\bin\Debug\OrderingContracts.pdb
+C:\Users\Justin Self\documents\visual studio 2015\Projects\NsbWorkshop\OrderContracts\bin\Debug\NServiceBus.Core.dll
+C:\Users\Justin Self\documents\visual studio 2015\Projects\NsbWorkshop\OrderContracts\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Justin Self\documents\visual studio 2015\Projects\NsbWorkshop\OrderContracts\bin\Debug\NServiceBus.Core.xml
+C:\Users\Justin Self\documents\visual studio 2015\Projects\NsbWorkshop\OrderContracts\obj\Debug\OrderingContracts.dll
+C:\Users\Justin Self\documents\visual studio 2015\Projects\NsbWorkshop\OrderContracts\obj\Debug\OrderingContracts.pdb
